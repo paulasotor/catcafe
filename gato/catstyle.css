@@ -1,0 +1,54 @@
+body {
+    Background-color: #f0efeb;
+    margin: 0 10%;
+    font-family: "raleway", sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    text-transform: uppercase;
+    color:  #7f5539;
+    font-weight: bolder;
+    font-size: 4em;
+    border-bottom: 2px solid #fec89a;
+}
+h2 {
+    font-family: 'Abril Fatface', cursive;
+    color:  #7f5539;
+    font-size: 2em;
+}
+h3{font-family: "raleway", sans-serif;
+    color:  #7f5539;
+    font-size: 18px}
+h4{font-family: "raleway", sans-serif;
+     color:  #78aebe;
+    font-size: 18px}
+header{
+background-color:  rgba(255,255,255,.3);
+  text-align: center;
+  
+}
+footer {
+    border-top: 2px solid #fec89a;
+    text-align: center;
+    padding-bottom: 2em;
+}
+li {
+  display: inline-block;
+  margin-right: 10px; 
+}
+ a:link {
+	  color: #78aebe; 
+}
+a:visited {
+	color:  #a5a58d;
+}
+a:focus, a:hover {
+	color: #ffffff;
+	background-color: #7f5539;
+}
+a:active {
+	color: #7f5539;
+	background-color: #ffffff;
+}
